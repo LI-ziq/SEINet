@@ -8,5 +8,5 @@ The SEINet.py file only gives the network model, training and testing reference 
 we propose a lightweight skip-connected expansion Inception network called SEINet. To capture characteristics at a more granular level, we create a new lightweight backbone network with fewer parameters based on the existing network architecture.
 
 
-![Architecture of our proposed method]()
+![Architecture of our proposed method](https://github.com/LI-ziq/SEINet/blob/main/img/newall.jpg)
 
