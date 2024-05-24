@@ -10,3 +10,27 @@ we propose a lightweight skip-connected expansion Inception network called SEINe
 
 ![Architecture of our proposed method](https://github.com/LI-ziq/SEINet/blob/main/img/newall.jpg)
 
+
+## Datasets
+
+* UC Merced Land Use Dataset:
+
+http://weegee.vision.ucmerced.edu/datasets/landuse.html
+
+* AID Dataset:
+
+https://captain-whu.github.io/AID/
+
+* NWPU RESISC45:
+
+http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
+
+## Enviroment
+
+python = 3.8.10
+
+torch = 1.10.0
+
+cuda = 11.3
+
+## If you want to use this paper, please include a citation
